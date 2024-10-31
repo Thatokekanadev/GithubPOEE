@@ -53,7 +53,7 @@ public class POE {
         
           
           
-        if (loginStatus.equals("A successful Login, Welcome " + name + " " + surname)){
+        if (loginStatus.equals("A successful Login, Welcome " + name + "  " + surname)){
            loggedIn = true;
                 }
        }
